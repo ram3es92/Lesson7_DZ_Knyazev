@@ -1,0 +1,14 @@
+E:\GeekBreans\Kurs_znakomstvo_s_programm\Lesson7\Zadanie3\obj\Debug\net7.0\Zadanie3.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBreans\Kurs_znakomstvo_s_programm\Lesson7\Zadanie3\obj\Debug\net7.0\Zadanie3.AssemblyInfoInputs.cache
+E:\GeekBreans\Kurs_znakomstvo_s_programm\Lesson7\Zadanie3\obj\Debug\net7.0\Zadanie3.AssemblyInfo.cs
+E:\GeekBreans\Kurs_znakomstvo_s_programm\Lesson7\Zadanie3\obj\Debug\net7.0\Zadanie3.csproj.CoreCompileInputs.cache
+E:\GeekBreans\Kurs_znakomstvo_s_programm\Lesson7\Zadanie3\bin\Debug\net7.0\Zadanie3.exe
+E:\GeekBreans\Kurs_znakomstvo_s_programm\Lesson7\Zadanie3\bin\Debug\net7.0\Zadanie3.deps.json
+E:\GeekBreans\Kurs_znakomstvo_s_programm\Lesson7\Zadanie3\bin\Debug\net7.0\Zadanie3.runtimeconfig.json
+E:\GeekBreans\Kurs_znakomstvo_s_programm\Lesson7\Zadanie3\bin\Debug\net7.0\Zadanie3.dll
+E:\GeekBreans\Kurs_znakomstvo_s_programm\Lesson7\Zadanie3\bin\Debug\net7.0\Zadanie3.pdb
+E:\GeekBreans\Kurs_znakomstvo_s_programm\Lesson7\Zadanie3\obj\Debug\net7.0\Zadanie3.dll
+E:\GeekBreans\Kurs_znakomstvo_s_programm\Lesson7\Zadanie3\obj\Debug\net7.0\refint\Zadanie3.dll
+E:\GeekBreans\Kurs_znakomstvo_s_programm\Lesson7\Zadanie3\obj\Debug\net7.0\Zadanie3.pdb
+E:\GeekBreans\Kurs_znakomstvo_s_programm\Lesson7\Zadanie3\obj\Debug\net7.0\Zadanie3.genruntimeconfig.cache
+E:\GeekBreans\Kurs_znakomstvo_s_programm\Lesson7\Zadanie3\obj\Debug\net7.0\ref\Zadanie3.dll
